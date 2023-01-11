@@ -1,0 +1,46 @@
+# Security Job:
+*fixed blip and vehicle spawner.
+
+# Taxi Job:
+*removed taxi blips and dispatch as was being abused.
+
+# Server wide pay:
+*fixed error in account money was being pulled from.
+
+# DashDoor:
+*fixed spelling error in item name. 
+
+# DMV:
+*Car should spawn with full tank now. (i hope)
+
+# Map:
+*Added new mlo for a job.
+*Map collisions fixed near Popular St and Elgin Ave to stop people walking/driving off thru the bridge. 
+
+# Fuel:
+*Adjusted fuel usage, should use less based on the vehicle if is a small vehicle.
+
+# Repair Tables:
+*Random tables removed. (thanks for reporting them everyone)
+
+# State Wide Pay:
+*pay of most jobs has been adjusted.
+
+# Boss System:
+*Added missing boss menus. (if your missing one still please let us know in a ticket)
+
+# Shops:
+*Patched issue with weapons license not being found by shops.
+
+# Vehicle Shops:
+*Added PDM
+*Added Sunrise Auto
+*Added Trucking Dealer 
+
+# Supplier Job:
+*Added job to core.
+*Pollyzones set for auto clock out.
+*Supplier items added to job shop.
+
+Store owners, Repair shops and Business owners. This will be the people you call for supplies to be delivered to your place.
+Keep an eye out for them in the yellow pages.
